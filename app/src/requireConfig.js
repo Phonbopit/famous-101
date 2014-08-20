@@ -9,4 +9,6 @@ require.config({
         almond: '../lib/almond/almond'
     }
 });
-require(['lesson1']);
+// Require only file or multiple files.
+require(['lesson2']);
+// require(['lesson1', 'lesson2']);
