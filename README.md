@@ -1,6 +1,8 @@
 #famous-101
 > Try to learn Famo.us \m/.
 
+[![Build Status](https://travis-ci.org/Phonbopit/famous-101.svg?branch=master)](https://travis-ci.org/phonbopit/famous-101)
+
 [![Build Status](https://travis-ci.org/phonbopit/famous-101.svg?branch=master)](https://travis-ci.org/phonbopit/famous-101) [![Dependency Status](https://david-dm.org/phonbopit/famous-101.svg)](https://david-dm.org/phonbopit/famous-101) [![devDependency Status](https://david-dm.org/phonbopit/famous-101/dev-status.svg)](https://david-dm.org/phonbopit/famous-101#info=devDependencies)
 
 ##Dependencies
