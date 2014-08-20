@@ -28,6 +28,7 @@ Open [localhost:1337](http://localhost:1337/) That's all \m/
 
 - [Famo.us University](https://famo.us/university)
 - [Famo.us Documentation](https://famo.us/docs/)
+- [Famo.us Guide](https://famo.us/guides/)
 
 ## Tasks
 
