@@ -14,6 +14,8 @@ define(function(require, exports, module) {
         content: 'Hello Famo.us \m/'
     });
 
+    firstSurface.setContent('<h1>Awesome!</h1>');
+
     // Add Surface to mainContext
     mainContext.add(firstSurface);
 });

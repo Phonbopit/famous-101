@@ -3,6 +3,20 @@
 
 [![Build Status](https://travis-ci.org/Phonbopit/famous-101.svg?branch=master)](https://travis-ci.org/phonbopit/famous-101) [![Dependency Status](https://david-dm.org/phonbopit/famous-101.svg)](https://david-dm.org/phonbopit/famous-101) [![devDependency Status](https://david-dm.org/phonbopit/famous-101/dev-status.svg)](https://david-dm.org/phonbopit/famous-101#info=devDependencies)
 
+---
+
+## Useful Links
+
+- [Famo.us University](https://famo.us/university)
+- [Famo.us Documentation](https://famo.us/docs/)
+
+## Tasks
+
+- [x] [Lesson 1 : Displaying Content](https://famo.us/university/famous-101/displaying/1/) 
+
+
+---
+
 ##Dependencies
 It is actually quite simple really
 
