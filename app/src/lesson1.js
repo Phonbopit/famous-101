@@ -11,14 +11,14 @@ define(function(require, exports, module) {
 
   // Create Surface object with content.
   // Custom Surface with properties like writing CSS.
-  // but use camelCase instead of dashes 
+  // but use camelCase instead of dashes
   // ex. textAlign (text-align), backgroundColor (background-color)
 
   // Size Surface
   // - [x, y] - x : width, y : height in pixels
   // - Default is inherits from parent context (match_parent in android)
   // - [undefined, 200] - height 200 pixels with width equal parent size.
-  // - [200, undefined] - width 200 pixels with height equal parent size. 
+  // - [200, undefined] - width 200 pixels with height equal parent size.
   // - [true, true] - auto size according to the content like wrap_content in android :)
   var firstSurface = new Surface({
     size: [200, 500],

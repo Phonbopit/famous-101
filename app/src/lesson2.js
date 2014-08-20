@@ -8,13 +8,12 @@ define(function(require, exports, module) {
   var Engine = require('famous/core/Engine');
   var Surface = require('famous/core/Surface');
 
-  // Use StateModifier and Transform 
+  // Use StateModifier and Transform
   var Transform = require('famous/core/Transform');
   var StateModifier = require('famous/modifiers/StateModifier');
 
   // Create new Contenxt
   var mainContext = Engine.createContext();
-
 
   /* ===================================
     Transforms
@@ -79,12 +78,10 @@ define(function(require, exports, module) {
     }
   });
 
-
 /*  mainContext
     .add(translateModifierOne)
     .add(rotateModifierOne)
     .add(redSurface);*/
-
 
   /* ============================================
     Branching Modifier
