@@ -10,5 +10,5 @@ require.config({
     }
 });
 // Require only file or multiple files.
-require(['lesson2']);
-// require(['lesson1', 'lesson2']);
+require(['lesson3']);
+// require(['lesson1', 'lesson2', 'lesson3']);
