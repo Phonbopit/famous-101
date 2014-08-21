@@ -121,7 +121,7 @@ define(function(require, exports, module) {
       // align: [0.5, 0.5],
       origin: [0, 0],
       opacity: 0.5
-      // strug with different between align vs origin??????
+      // I'm struggling with different between align vs origin??????
       // origin : use width/height of windows.
       // align : use width/height of ...?
 
