@@ -119,7 +119,7 @@ define(function(require, exports, module) {
       // 0.1 - 10% from a parent width
       // 0.5 - 50% (a half) from a parent height
       // align: [0.5, 0.5],
-      origin: [1, 1],
+      origin: [0, 0],
       opacity: 0.5
       // strug with different between align vs origin??????
       // origin : use width/height of windows.
