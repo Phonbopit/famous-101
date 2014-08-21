@@ -44,6 +44,7 @@ Open [localhost:1337](http://localhost:1337/) That's all \m/
 
 - [lesson1.js](app/src/lesson1.js)
 - [lesson2.js](app/src/lesson2.js)
+- [lesson3.js](app/src/lesson3.js)
 
 ---
 
