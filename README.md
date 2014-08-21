@@ -34,7 +34,7 @@ Open [localhost:1337](http://localhost:1337/) That's all \m/
 
 - [x] [Lesson 1 : Displaying Content](https://famo.us/university/famous-101/displaying/1/) 
 - [x] [Lesson 2 : Positioning Elements](https://famo.us/university/famous-101/positioning)
-- [ ] [Lesson 3 : Animating Elements](https://famo.us/university/famous-101/animating/)
+- [x] [Lesson 3 : Animating Elements](https://famo.us/university/famous-101/animating/)
 - [ ] [Lesson 4 : Handling Events](https://famo.us/university/famous-101/eventing/)
 - [ ] [Lesson 5 : Famo.us Starter Kit](https://famo.us/university/famous-101/starter-kit/)
 - [ ] [Project : Slideshow](https://famo.us/university/famous-101/slideshow/)
